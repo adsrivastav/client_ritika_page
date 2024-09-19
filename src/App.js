@@ -22,7 +22,7 @@ function App() {
       <section className="hero">
         <div className="hero-content">
           <img src={ritikaImage} alt="Ritika Thakur" className="hero-image" />
-          <h2>WORK WITH RITIKA 𝐓𝐡𝐚𝐤𝐮𝐫</h2>
+          <h2>WORK WITH RITIKA THAKUR</h2>
           <p>
             Ritika Thakur is offering a platform to work directly with her. Start your own online business, master social skills, and earn a significant income. This opportunity is ideal for young individuals, housewives, and anyone eager to work from home.
           </p>
